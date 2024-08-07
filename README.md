@@ -1,6 +1,6 @@
 # IEEEvitbhopal_BLH23_Pranav-karra
 
-PROJECT TITLE : empowerment of disabled individuals
+PROJECT TITLE : EMPOWERMENT OF DISABLED INDIVIDUALS
 
 TEAM NAME  : Pranav Karra
 
